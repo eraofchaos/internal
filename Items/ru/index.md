@@ -1,8 +1,8 @@
 ---
-title: "Items"
+title: "List of Items"
 permalink: /Items/ru/
 excerpt: "Эра хаоса  List of ALL ITEMS"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-12
 locale: ru
 ref: "index_ru.md"
 toc: false

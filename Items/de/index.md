@@ -1,8 +1,8 @@
 ---
-title: "Items"
+title: "List of Items"
 permalink: /Items/de/
 excerpt: "Era of Chaos  List of ALL ITEMS"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-12
 locale: de
 ref: "index_de.md"
 toc: false
