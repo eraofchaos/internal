@@ -2,7 +2,7 @@
 title: "List of Items"
 permalink: /Items/de/
 excerpt: "Era of Chaos  List of ALL ITEMS"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "index_de.md"
 toc: false
