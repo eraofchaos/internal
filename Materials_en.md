@@ -2,7 +2,7 @@
 title: "Materials en"
 permalink: /Materials_en/
 excerpt: "Era of Chaos  Open Materials to get items."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-07
 locale: en
 ref: "Materials_en.md"
 toc: true
