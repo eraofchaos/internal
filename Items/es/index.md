@@ -2,7 +2,7 @@
 title: "List of Items"
 permalink: /Items/es/
 excerpt: "Era of Chaos  List of ALL ITEMS"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "index_es.md"
 toc: false
@@ -441,7 +441,7 @@ classes: wide
   | 428 | 81522232 | <span style="color: #DA70D6">[Northeast Region Stove Fish](/Items/con_1216/)</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 999999 |  |  |  |  | 2 | A large wild fish caught from lakes or rivers is placed into a large metal stove and stewed slowly with all kinds of vegetables. Meanwhile, flat breads made out of corn flour are heated on the side of the pot. This dish is a local dish enjoyed in farms in the Northeast Region. This particular pot of food seems to be insufficiently heated. |
   | 429 | 10038 | <span style="color: #DA70D6">[Green Candy](/Items/con_552/)</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 100047 |  |  |  |  | 2 | A beautifully packaged green candy. Can be used in the New Year Double Discounts event. |
   | 430 | 3403 | <span style="color: #DA70D6">[Orc](/Items/unt_219/)</span> | 0 | NIL | SPLICE | TEAMSOUL | 10403 |  |  {2, 72006, 7200601, 6},  {2, 72007, 7200701, 6},  |  {11, 0, 0, 14},  {16, 403, 0, 32},  |  | 2 | Once you have gathered 30 soul tokens you can summon an Orc, an SR aptitude unit. |
-  | 431 | 907617 | <span style="color: #DA70D6">[Tool_907617](/Items/con_2163/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 1 |  |  |  |  | 2 |  |
+  | 431 | 907617 | <span style="color: #DA70D6">[Tidal Guardian Soul Stone Special Offer C](/Items/con_2163/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 1 |  |  |  |  | 2 | Grants 100 Tidal Guardian Soul Stones and 3,480 diamonds. |
   | 432 | 40413 | <span style="color: #FF8C00">[Helm of Heavenly Enlightenment](/Items/art_152/)</span> |  | NIL | TREASURE | TREASURE | 30013 |  |  {3, 7, 0, 34},  |  | 1 | 1, 2 | A crown blessed by the gods. One of the components of the Angelic Alliance. |
   | 433 | 302504 | <span style="color: #FF8C00">[Radiant Sulfur +5](/Items/mat_99/)</span> | 0 | NIL | MATERIAL | MATERIAL | 50893 |  |  {17, 0, 0, 33},  |  {1, 71027, 7102704, 1},  {1, 71027, 7102710, 1},  {1, 71027, 7102713, 11},  |  |  | Common materials to upgrade equipment from orange +5 to Red. |
   | 434 | 21035 | <span style="color: #FF8C00">[Tool_21035](/Items/con_632/)</span> | 0 | INFO | 12 | CONSUMABLES | 71 |  |  |  |  | 2 |  |
@@ -481,7 +481,7 @@ classes: wide
   | 468 | 10125 | <span style="color: #FF8C00">[Devotee - Judicator Avatar](/Items/con_584/)</span> | 0 | INFO | 104 | CONSUMABLES | 81 |  |  |  |  | 2 | Use to receive Devotee Judicator Avatar |
   | 469 | 93606 | <span style="color: #FF8C00">[Naga Queen's Soul](/Items/con_2055/)</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 12016 |  |  |  |  | 1 | Ancient Immortal Hero Soul. Can be used for Naga's Awakening |
   | 470 | 302506 | <span style="color: #FF8C00">[Radiant Crystal +5](/Items/mat_101/)</span> | 0 | NIL | MATERIAL | MATERIAL | 50895 |  |  {17, 0, 0, 33},  |  {1, 71027, 7102706, 1},  {1, 71027, 7102712, 11},  {1, 71027, 7102715, 11},  |  |  | Common materials to upgrade equipment from orange +5 to Red. |
-  | 471 | 907615 | <span style="color: #DA70D6">[Tool_907615](/Items/con_2161/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 1 |  |  |  |  | 2 |  |
+  | 471 | 907615 | <span style="color: #DA70D6">[Tidal Guardian Soul Stone Special Offer A](/Items/con_2161/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 1 |  |  |  |  | 2 | Grants 20 Tidal Guardian Soul Stones and 980 diamonds. |
   | 472 | 907086 | <span style="color: #FF8C00">[Dark Soul Altar Chest](/Items/con_1472/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 98 |  |  |  |  | 2 | A treasure chest covered with death and darkness are, only the lords having Bone Dragons can open it. |
   | 473 | 690026 | <span style="color: #FF8C00">[Tidal Elemental Concept Art Avatar](/Items/con_1098/)</span> | 1 | INFO | 104 | CONSUMABLES | 81 |  |  |  |  |  | Use to receive the Tidal Elemental Concept Art Avatar. |
   | 474 | 907171 | <span style="color: #DA70D6">[Lich 4-Star Advance Pack](/Items/con_1557/)</span> | 1 | INFO | GIFT | CONSUMABLES | 18 |  |  |  |  | 2 | Get Lich token x100, Skeleton Warrior token x20, unit EXP x8,000, magic talent potion x60, Necropolis roster rune x8, gold x70,000. |
@@ -493,7 +493,7 @@ classes: wide
   | 480 | 10039 | <span style="color: #DA70D6">[New Year Drink](/Items/con_553/)</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 100048 |  |  |  |  | 2 | A special item for the New Year event. Can be exchanged for rare items during the event. |
   | 481 | 40411 | <span style="color: #FF8C00">[Sword of Judgement](/Items/art_150/)</span> |  | NIL | TREASURE | TREASURE | 30011 |  |  {3, 7, 0, 34},  |  | 1 | 1, 2 | A sword gifted to men by the gods. One of the components of the Angelic Alliance. |
   | 482 | 290709 | <span style="color: #DA70D6">[Eternal Flame Special Skin](/Items/con_669/)</span> |  | NIL | 102 | CONSUMABLES | 67 |  |  |  |  | 2 | Unlock the skin when Eternal Flame is awakened |
-  | 483 | 907616 | <span style="color: #DA70D6">[Tool_907616](/Items/con_2162/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 1 |  |  |  |  | 2 |  |
+  | 483 | 907616 | <span style="color: #DA70D6">[Tidal Guardian Soul Stone Special Offer B](/Items/con_2162/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 1 |  |  |  |  | 2 | Grants 50 Tidal Guardian Soul Stones and 2,180 diamonds. |
   | 484 | 40412 | <span style="color: #FF8C00">[Lion's Shield of Courage](/Items/art_151/)</span> |  | NIL | TREASURE | TREASURE | 30012 |  |  {3, 7, 0, 34},  |  | 1 | 1, 2 | A symbol of the military might of Griffin units. One of the components of the Angelic Alliance. |
   | 485 | 93607 | <span style="color: #FF8C00">[Titan Soul](/Items/con_2056/)</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 12016 |  |  |  |  | 1 | An ancient immortal hero soul. Can be used for Titan's Awakening. |
   | 486 | 302505 | <span style="color: #FF8C00">[Radiant Gems +5](/Items/mat_100/)</span> | 0 | NIL | MATERIAL | MATERIAL | 50894 |  |  {17, 0, 0, 33},  |  {1, 71027, 7102701, 11},  {1, 71027, 7102705, 1},  {1, 71027, 7102711, 11},  |  |  | Common materials to upgrade equipment from orange +5 to Red. |
@@ -655,7 +655,7 @@ classes: wide
   | 642 | 9230703 | <span style="color: #FF8C00">[Obsidian Dragon: Bone Dragon skin](/Items/con_1984/)</span> | 1 | INFO | 105 | CONSUMABLES | 67 |  |  |  |  | 2 | Grants the Obsidian Dragon: Bone Dragon skin. |
   | 643 | 3706 | <span style="color: #DA70D6">[Manticore](/Items/unt_249/)</span> | 0 | NIL | SPLICE | TEAMSOUL | 10706 |  |  |  {16, 706, 0, 32},  |  | 2 | Once you have gathered 80 soul tokens you can summon a Manticore. Tokens can also be used to upgrade or increase the rank of manticores. |
   | 644 | 3042 | <span style="color: #FF8C00">[Duel Ticket](/Items/con_784/)</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 5008 |  |  |  {15, 0, 0, 31},  |  | 1 | An invitation to the Duel of Heroes. Battle against other masters! Delivered via email on Monday, Wednesday, and Friday. |
-  | 645 | 949904 | <span style="color: #FF8C00">[Tool_949904](/Items/unt_352/)</span> | 0 | NIL | AWAKESPLICE | TEAMSOUL | 9108 |  |  |  |  |  |  |
+  | 645 | 949904 | <span style="color: #FF8C00">[Tidal Guardian Soul Stone](/Items/unt_352/)</span> | 0 | NIL | AWAKESPLICE | TEAMSOUL | 9108 |  |  |  |  |  | Soul Stone for Tidal Guardian's Awakening level enhancement |
   | 646 | 907180 | <span style="color: #DA70D6">[3-Star Fire Elemental](/Items/con_2142/)</span> | 1 | INFO | GIFT | CONSUMABLES | 27 |  |  |  |  | 2 | Fire Elemental |
   | 647 | 30281 | <span style="color: #DA70D6">[Shadowsteel Pack](/Items/con_740/)</span> | 1 | USE | EXP | CONSUMABLES | 4281 |  |  |  |  | 2 | A pack containing Dragonsteel. Open it and you will receive 300 Dragonsteel |
   | 648 | 907407 | <span style="color: #DA70D6">[Lv. 40 Premium Growth Pack](/Items/con_1786/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 1 |  |  |  |  | 2 | Grants 1 Lv. 45 Premium Growth Pack, 10 gold keys, and 10 silver keys. |
@@ -1351,7 +1351,7 @@ classes: wide
   | 1338 | 301507 | <span style="color: #0000CD">[Book of Arms +2](/Items/mat_32/)</span> | 0 | NIL | MATERIAL | MATERIAL | 50507 |  |  {17, 0, 0, 33},  |  {6, 3, {72006, 72006, null, null}, 6},  {6, 3, {72007, 72007, null, null}, 6},  {6, 3, {72008, 72008, null, null}, 6},  {6, 3, {72009, 72009, null, null}, 6},  |  |  | Normal materials to upgrade equipment from blue +2 to purple. |
   | 1339 | 907241 | <span style="color: #DA70D6">[Daily Special Offer Pack A](/Items/con_1625/)</span> | 1 | INFO | GIFT | CONSUMABLES | 87 |  |  |  |  | 2 | Grants 2 Rampart Faction Chests and 20 diamonds. |
   | 1340 | 907374 | <span style="color: #FF8C00">[Sword of Frost Offer](/Items/con_1758/)</span> | 1 | SPLICE | GIFT | CONSUMABLES | 100 |  |  |  |  | 2 | Grants 1 Frost Component Chest and 3,880 diamonds. |
-  | 1341 | 408002 | <span style="color: #DA70D6">[Tool_408002](/Items/con_962/)</span> | 1 | INFO | GIFT | CONSUMABLES | 21 |  |  |  |  | 2 |  |
+  | 1341 | 408002 | <span style="color: #DA70D6">[Random Purple Artifact Component Chest](/Items/con_962/)</span> | 1 | INFO | GIFT | CONSUMABLES | 21 |  |  |  |  | 2 | Randomly grants 1 of the following components: Mirror of Revenge Component, Armor of the Damned Component, Axe of Ferocity Component, Bow of the Sharpshooter Component, Cloak of the Undead King Component, or Archmage's Codex Component. |
   | 1342 | 906043 | <span style="color: #DA70D6">[Tool_906043](/Items/con_1366/)</span> | 1 | INFO | GIFT | CONSUMABLES | 335 |  |  |  |  | 2 | Use it to get Diamond *5180, Elite Unit Pack *1, Spell Scroll *300 and Temple Scroll *10 |
   | 1343 | 500411 | <span style="color: #FF8C00">[Storm](/Items/her_445/)</span> |  | NIL | SKILL | HEROSOUL | 60113 |  |  |  {18, 0, 0, 35},  |  | 1 | Token used for composing Spell Book - Storm |
   | 1344 | 39976 | <span style="color: #FF8C00">[VIP monthly card](/Items/con_883/)</span> | 0 | USE | 100 | CONSUMABLES | 1 |  |  |  |  |  | A mysterious item which produces wealth continuously. Only the luckiest will possess it. |
@@ -1650,7 +1650,7 @@ classes: wide
   | 1637 | 31025 | <span style="color: #FF8C00">[Tool_31025](/Items/con_846/)</span> | 0 | INFO | 11 | CONSUMABLES | 99999 |  |  |  |  |  |  |
   | 1638 | 904003 | <span style="color: #DA70D6">[Necropolis Unit Chest](/Items/con_1271/)</span> | 1 | INFO | GIFT | CONSUMABLES | 202 |  |  |  |  | 2 | Receive a random Necropolis Faction Unit token. |
   | 1639 | 3063 | <span style="color: #FF8C00">[Rare Building Materials](/Items/con_805/)</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 100009 |  |  {5, 1, 0, 2},  {6, 1, 0, 13},  |  |  | 2 | Used for building walls during the Steadwick Defense Battle |
-  | 1640 | 3509 | <span style="color: #FF0000">[Tool_3509](/Items/unt_234/)</span> | 0 | NIL | SPLICE | TEAMSOUL | 10509 |  |  |  |  | 2 |  |
+  | 1640 | 3509 | <span style="color: #FF0000">[Venom Spawn](/Items/unt_234/)</span> | 0 | NIL | SPLICE | TEAMSOUL | 10509 |  |  |  |  | 2 | Once you have gathered 80 soul tokens you can summon a Venom Spawn, a Commander unit |
   | 1641 | 40221 | <span style="color: #0000CD">[Collar of Conjuring](/Items/art_115/)</span> |  | NIL | TREASURE | TREASURE | 30221 |  |  {8, 0, 0, 22},  {3, 4, 0, 15},  {3, 7, 0, 34},  |  |  |  | Enhances the wearer's magic power. One of the components of Ring of the Mage. |
   | 1642 | 40354 | <span style="color: #DA70D6">[Forgotten Hourglass](/Items/art_143/)</span> |  | NIL | TREASURE | TREASURE | 30154 |  |  {3, 4, 0, 15},  {3, 7, 0, 34},  |  | 1 | 2 | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. |
   | 1643 | 40003 | <span style="color: #FF8C00">[Plane tokens](/Items/con_910/)</span> | 0 | USE | OTHER | CONSUMABLES | 2 |  |  |  |  |  | These tokens, forged by the elementals between planes over many years, are extremely valuable, and can be exchanged for items.  |
