@@ -2,7 +2,7 @@
 title: "List of Items"
 permalink: /Items/cn/
 excerpt: "魔法门之英雄无敌：战争纪元  List of ALL ITEMS"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: cn
 ref: "index_cn.md"
 toc: false
